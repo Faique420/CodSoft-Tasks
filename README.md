@@ -1,2 +1,2 @@
-# Sales-Prediction-Task
-This is a data science project to predict the sales of cars.
+# CodSoft Internship Tasks
+These are data science tasks/projects that have been completed.
