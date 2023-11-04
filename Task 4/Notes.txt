@@ -1,0 +1,5 @@
+----> Please note that, actually I have made unseen data file by myself just to check model on unseen or test data.
+
+---> Cannot upload credit card dataset because of size issue on gitHub.
+
+Credit Card Dataset Kaggle Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
